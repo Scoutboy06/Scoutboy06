@@ -1,6 +1,7 @@
 - 👋 Hi, My name is Elias
+- 🧔 I'm 15 years old
 - 👀 I’m interested in
-	- Full-stack development
+	- Full-stack development (MERN)
 	- Chess
 	- Hanging out with friends
 - 🌱 I’m currently learning
