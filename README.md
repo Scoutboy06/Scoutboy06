@@ -1,9 +1,9 @@
 - 👋 Hi, My name is Elias
 - 🧔 I'm 15 years old
 - 👀 I’m interested in
-	- Full-stack development (MERN)
-	- Chess
-	- Hanging out with friends
+	- Backend development (Node.js & Express / Next.js)
+	- Frontend development (React / Next.js)
+	- Problem solving 🧠
 - 🌱 I’m currently learning
 	- Next.js
 - 📫 How to reach me
