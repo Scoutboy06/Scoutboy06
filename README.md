@@ -4,7 +4,10 @@
 	- Backend development (Node.js & Express)
 	- Frontend development (React / Next.js)
 - 🌱 I’m currently learning
+	- Full-stack development
 	- Discord.js
+- ❤ Favorite stack
+	- MERN
 - 📫 How to reach me
 	- Mail: elias06wennerlund@gmail.com
 	- Instagram: @elias_wennerlund
