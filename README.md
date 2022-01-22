@@ -4,8 +4,7 @@
 	- Backend development (Node.js & Express)
 	- Frontend development (React / Next.js)
 - 🌱 I’m currently learning
-	- Full-stack development
-	- Discord.js
+	- Java
 - ❤ Favorite stack
 	- MERN
 - 📫 How to reach me
