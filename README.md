@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 💡 I like to make projects that someone, either me or someone else, benefits from. Something that they find useful or fun.\
-🎓 I'm currently in 9th grade (almost 16 years old). I'm currently applying for a technical school and plan on studying computer science in the future.\
+🎓 I'm currently in 9th grade (sedish school system, I'm almost 16 years old). I'm currently applying for a technical school and plan on studying computer science in the future.\
 🌱 Right now I'm working on TikTok-related project, involving scrapers etc.
 
 ### 🛠 Tech Stack
