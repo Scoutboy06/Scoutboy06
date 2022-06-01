@@ -3,8 +3,8 @@
 ### 👨🏻‍💻 About Me
 
 💡 I like to make projects that someone, either me or someone else, benefits from. Something that they find useful or fun.\
-🎓 I'm currently in 9th grade (sedish school system, I'm almost 16 years old). I'm currently applying for a technical school and plan on studying computer science in the future.\
-🌱 Right now I'm working on TikTok-related project, involving scrapers etc. I'm also planning on learning about Docker.
+🎓 I'm 16 years old and will soon begin in high school. I'm currently applying for a technical school and plan on studying computer science in the future.\
+🌱 Right now I'm working on my manga reader app, which uses the MERN stack and involves scrapers, user profiles and 
 
 ### 🛠 Tech Stack
 
@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=68B03F)
@@ -20,6 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)
+
 
 ### 💬 Contact
 
