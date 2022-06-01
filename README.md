@@ -4,7 +4,7 @@
 
 💡 I like to make projects that someone, either me or someone else, benefits from. Something that they find useful or fun.\
 🎓 I'm 16 years old and will soon begin in high school. I'm currently applying for a technical school and plan on studying computer science in the future.\
-🌱 Right now I'm working on my manga reader app, which uses the MERN stack and involves scrapers, user profiles and 
+🌱 Right now I'm working on my manga reader app, which uses the MERN stack and involves dynamic scrapers.
 
 ### 🛠 Tech Stack
 
