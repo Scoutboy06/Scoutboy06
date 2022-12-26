@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 I like to make projects that someone, either me or someone else, benefits from. Something that they find useful or fun.\
+💡 I focus on functional projects but can drool over beautiful designs too. I specialize in frontend-development, but I also write backend code for my projects.\
 🎓 I'm currently a freshman in high school in Sweden. I'm studying informations technology at NTI Johanneberg in Gothenburg.\
 🌱 Right now I'm working on my manga reader/anime watching app.
 
