@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 About Me
 
-💡 I focus on functional projects but can drool over beautiful designs too. I specialize in frontend-development, but I also write backend code for my projects.\
-🎓 I'm currently a freshman in high school in Sweden. I'm studying informations technology at NTI Johanneberg in Gothenburg.\
-🌱 Right now I'm working on my manga reader/anime watching app.
+💡 I enjoy working on functional projects that also have beautiful designs. I have skills in both frontend and backend development and I use them for my own projects.\
+🎓 I’m a high school freshman in Sweden, studying information technology at NTI Johanneberg in Gothenburg.\
+🌱 I’m currently developing a website that helps people improve their chess skills.
 
 ### 🛠 Tech Stack
 
