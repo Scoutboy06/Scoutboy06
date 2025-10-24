@@ -1,23 +1,19 @@
-## 👋 Hello, I'm Elias
+## Hello, I'm Elias
 
-### 👨🏻‍💻 About Me
+I'm a first-year student at Chalmers University of Technology and a part-time developer at [Beyond Communication](https://www.onestepbeyond.se/).
 
-I'm passionate about creating functional projects with stunning designs. My journey in tech began early, and I've honed my skills in both frontend and backend development, applying them to my personal projects.
+I enjoy working close to the metal, building small compilers, experimenting with new languages, and exploring systems programming.
 
-🎓 As a high school sophomore at NTI Johanneberg, Gothenburg, I'm immersed in information technology, constantly exploring and learning new things.\
-🌱 Currently, I'm channeling my love for chess into developing a website that not only enhances chess skills but also brings joy to the game's enthusiasts.
+### What I'm Building
 
-### 🛠 Tech Stack
+- [programming-language](https://github.com/Scoutboy06/programming-language): An experimental language inspired by TypeScript, with static typing and compiled to WebAssembly.
 
-- Frontend: ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js) ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte) ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)
-- Styling: ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)
-- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-- Database: ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=68B03F)
+### Tech Stack & Tools
+- **Languages:** Rust, TypeScript, JavaScript, Python, C++, Ruby
+- **Web & Frameworks:** React, Next.js, Express, Sinatra, WordPress (Gutenberg and headless)
+- **Systems & Tooling:** Node.js, GraphQL, Tailwind CSS, MongoDB, Docker, Linux, Git
 
-### 💬 Let's Connect
+### Connect
 
-Feel free to reach out to me for collaborations or just a chat about tech!
-
-<a href="mailto:elias06wennerlund@gmail.com">
-  <img src="https://img.shields.io/badge/-elias06wennerlund@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
-</a>
+- Email: [elias06wennerlund@gmail.com](mailto:elias06wennerlund@gmail.com)
+- LinkedIn: [linkedin.com/in/elias-wennerlund-08b2a1210](https://www.linkedin.com/in/elias-wennerlund-08b2a1210/)
