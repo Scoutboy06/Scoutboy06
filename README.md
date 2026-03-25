@@ -8,6 +8,10 @@ I enjoy working close to the metal, building small compilers, experimenting with
 
 - [programming-language](https://github.com/Scoutboy06/programming-language): An experimental language inspired by TypeScript, with static typing and compiled to WebAssembly.
 
+### What I'm Currently Learning
+
+Currently learning: computer architecture, Linux, and Rust
+
 ### Tech Stack & Tools
 - **Languages:** Rust, TypeScript, JavaScript, Python, C++, Ruby
 - **Web & Frameworks:** React, Next.js, Express, Sinatra, WordPress (Gutenberg and headless)
