@@ -1,6 +1,6 @@
 ## Hello, I'm Elias
 
-I'm a first-year student at Chalmers University of Technology and a part-time developer at [Beyond Communication](https://www.onestepbeyond.se/).
+I'm a first-year student at Chalmers University of Technology and a part-time developer at [Inet](https://www.inet.se/).
 
 I enjoy working close to the metal, building small compilers, experimenting with new languages, and exploring systems programming.
 
